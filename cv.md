@@ -53,3 +53,11 @@ Delphi, С++, Fortran, OOP/SOLID, OpenGL, Ansys APDL, Hasp Sentinel, System admi
   const add=({x,y}, callback)=>callback(x+y)
   add({x:2,y:2}, console.log)
 ```
+---
+## Language
+  
+- Ukraine
+- Russian
+- English(A1)
+
+---
