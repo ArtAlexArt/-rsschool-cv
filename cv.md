@@ -28,3 +28,21 @@
 `Zaporizhzhya National Technical University (1996 - 2001) - Electronics engineering`
 
 ---
+## Work Experience
+  
+**Senior Researcher / august 2001 - present**
+- JSC "VIT" ( Ukrainian research design and technological transformer institute is a powerful scientific and technical center manufacturing electric equipment for HV classes of up to 1800 kV).
+
+    - Calculation software development for power transformer (2D electric and magnetic field, current distribution, zero sequence, harmonics, sound level, find optimal design, etc.)
+    - Customer training - organized and conducted training courses for customer engineers in China, Argentina, Poland, India, Australia, USA, Burma, Malaysia, Taiwan, etc.
+    - Calculations of main insulation transformer of high voltage testing, eddy current losses, current distribution, etc.
+    - Managed team of 5 engineers
+
+---
+## Professional Skills
+  
+**(20+ years of design software experience)**
+
+Delphi, С++, Fortran, OOP/SOLID, OpenGL, Ansys APDL, Hasp Sentinel, System administration
+
+---
